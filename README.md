@@ -5,9 +5,9 @@
 
 My name is Thiago de Lima Costa
 
-Entry-level programmer
+Entry-level programmer, I'm specializing in Backend development
 
-I'm a Computer Science student. I'm an entry-level programmer and I'm specializing in Backend development, with experience in PHP, SQL, HTML, CSS and Bootstrap. Also, I'm learning Java and Python.
+Computer Science student
 
 ## My Skills
 
@@ -30,12 +30,13 @@ I'm a Computer Science student. I'm an entry-level programmer and I'm specializi
 
 ## Projects
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Lima-Costa&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Lima-Costa&layout=compact&theme=tokyonight"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Thiago-Lima-Costa&show_icons=true&theme=tokyonight"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Lima-Costa&layout=compact&theme=tokyonight"/>
 </div>
 
 ## Contact
 
   Email: lima.costa.dev@gmail.com
+  
   LinkedIn: https://www.linkedin.com/in/thiago-lima-costa/
 
