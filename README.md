@@ -1,16 +1,38 @@
-### Hi there 👋
+# "Hello there!"
+   -General Kenobi.
 
-<!--
-**Thiago-Lima-Costa/Thiago-Lima-Costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+My name is Thiago de Lima Costa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Entry-level programmer
+
+I'm a Computer Science student. I'm an entry-level programmer and I'm specializing in Backend development, with experience in PHP, SQL, HTML, CSS and Bootstrap. Also, I'm learning Java and Python.
+
+## My Skills
+
+<img align="center" alt="Thiago-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img align="center" alt="Thiago-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="center" alt="Thiago-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+<img align="center" alt="Thiago-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+<img align="center" alt="Thiago-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+<img align="center" alt="Thiago-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="Thiago-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
+
+          
+## I’m currently learning
+
+<img align="center" alt="Thiago-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+<img align="center" alt="Thiago-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+
+
+## Projects
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Lima-Costa&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Lima-Costa&layout=compact&theme=tokyonight"/>
+ 
+
+## Contact
+
+  Email: lima.costa.dev@gmail.com
+  LinkedIn: https://www.linkedin.com/in/thiago-lima-costa/
+
