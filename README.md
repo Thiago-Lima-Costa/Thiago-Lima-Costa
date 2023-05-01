@@ -1,7 +1,5 @@
-<div>
-   <H2>"Hello there!"</H2>
-   <p style="margin-top: 1px;"><small><em>-General Kenobi.</em></small></p>
-</div>
+###"Hello there!"
+<p><small><em>-General Kenobi.</em></small></p>
 
 # About Me
 
