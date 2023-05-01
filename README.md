@@ -1,6 +1,6 @@
 <div>
    <H2>"Hello there!"</H2>
-   <p style="margin-top: 1px;"><small><em>   -General Kenobi.</em></small></p>
+   <p><small><em>-General Kenobi.</em></small></p>
 </div>
 
 # About Me
