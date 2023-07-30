@@ -5,7 +5,7 @@
 
 My name is Thiago de Lima Costa
 
-Entry-level programmer, I'm specializing in Backend development
+Backend developer
 
 Computer Science student
 
@@ -13,6 +13,7 @@ Computer Science student
 
 <div>
    <img align="center" alt="Thiago-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+   <img align="center" alt="Thiago-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
    <img align="center" alt="Thiago-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
    <img align="center" alt="Thiago-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
    <img align="center" alt="Thiago-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
@@ -24,7 +25,6 @@ Computer Science student
 ## I’m currently learning
 
 <div>
-<img align="center" alt="Thiago-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 <img align="center" alt="Thiago-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 </div>
 
